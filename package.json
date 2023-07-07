@@ -42,7 +42,7 @@
     "mocha-minimalist-reporter": "1.1.0",
     "polymer-cli": "1.9.11",
     "prpl-server": "1.4.0",
-    "stylelint": "10.1.0",
+    "stylelint": "15.10.1",
     "stylelint-config-polymer": "0.0.1",
     "stylelint-processor-html": "1.0.0"
   },
